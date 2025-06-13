@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: "forest";
+}
+
+html, body, #root {
+  height: 100%;
+}
